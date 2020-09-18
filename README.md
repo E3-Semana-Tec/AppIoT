@@ -16,6 +16,17 @@ La aplicación FindMyTesla pone al propietario en comunicación directa la ubica
 
 Por otro lado, ademas de permitir el acceso a diferentes usuarios, por temas de seguridad, la aplicación enviara las credenciales del usuario que esta utilizando la aplicación al propietario.  El software de mapeo en la aplicación brinda instrucciones precisas y la calidad es mejor que cualquier otra aplicación en el mercado. Ya sea que el vehículo sea de la familia o de la empresa, este rastreador GPS para su Tesla es una herramienta valiosa por la seguridad que brinda. Por ejemplo, en el caso de que suceda algo impensable y te roben el coche, puedes utilizar el dispositivo instalado en tu coche para localizar rápidamente dónde está.
 
+## Proceso de Control de calidad
+1. Documentación
+2. Gestión de la configuración
+3. Aseguramiento de la calidad
+4. Verificación
+5. Validación
+6. Revisión en conjunto
+7. Auditoria
+8. Solución de problemas
+
+
 ## Archivos descargables 
 En la sigueinte liga podra descargar el archivo **.aia** de "FindMyTesla" versión **Pre-Alpha**: [FindMyTesla](https://github.com/E3-Semana-Tec/AppIoT/blob/master/AppIoT%20(2).aia)
 
