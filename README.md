@@ -11,6 +11,6 @@ Párrafo Explicativo
 Archivos descargables 
 [APK y AIA]
 
-![Video](https://youtube.com/embed/8n84DjIJGkA)
+[![TITLE](https://img.youtube.com/vi/8n84DjIJGkA/0.jpg)](https://www.youtube.com/watch?v=8n84DjIJGkA)
 
 Referencias 
