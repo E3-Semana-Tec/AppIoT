@@ -17,3 +17,9 @@ En la sigueinte liga podra descargar el archivo **.aia** de "FindMyTesla" versi�
 En la siguiente liga podra descargar el archivo **.apk** de "FindMyTesla" versión **Pre-Alpha**: [FindMyTesla](https://github.com/E3-Semana-Tec/AppIoT/blob/master/AppIoT.apk)
 
 ## Referencias 
+- (appinventor.mit.edu)
+
+- (Github.com)
+
+- Dudler, R. (2016). La guía sencilla. Retrieved September 18, 2020, from: (https://rogerdudler.github.io/git-guide/index.es.html)
+
