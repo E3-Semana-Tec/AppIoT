@@ -1,4 +1,4 @@
-[Título de la aplicación]
+%[Título de la aplicación]
 
 Video demostrativo
 [Poner link del video]
