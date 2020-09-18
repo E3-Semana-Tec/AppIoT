@@ -9,7 +9,7 @@ Algunos de los beneficios que ofrece la aplicación es que puedes conocer la loc
 [![TITLE](https://img.youtube.com/vi/8n84DjIJGkA/0.jpg)](https://www.youtube.com/watch?v=8n84DjIJGkA)
 
 ## Plataforma de almacenamiento en la nube
-![Image](https://github.com/E3-Semana-Tec/AppIoT/blob/master/Captura%20de%20pantalla%20(422).png)
+![Image](https://raw.githubusercontent.com/E3-Semana-Tec/AppIoT/blob/master/Captura%20de%20pantalla%20(422).png)
 
 ## Párrafo Explicativo 
 La aplicación FindMyTesla pone al propietario en comunicación directa la ubicación exacta en la que se encuentra su vehículo Tesla. Los datos proporcionados por el sistema de navegación determinan la ubicación en tiempo real del vehículo, esta ubicación se envía automáticamente a la nube de la posición global actual y se presenta en la aplicación FindMyTesla, a la que se puede acceder a travez del teléfono móvil. Para acceder a dicha información del vehículo, el propietario debe crear una cuenta con su usuario y contraseña, en la cual tendrá la oportunidad de  permitir que más usuarios accedan a la información de su vehículo. 
