@@ -12,8 +12,8 @@ Algunos de los beneficios que ofrece la aplicación es que puedes conocer la loc
 [Explicar]
 
 ## Archivos descargables 
-En la sigueinte liga podra descargar el archivo .aia de "FindMyTesla" versión Pre-Alpha: [FindMyTesla](https://github.com/E3-Semana-Tec/AppIoT/blob/master/AppIoT%20(2).aia)
+En la sigueinte liga podra descargar el archivo **.aia** de "FindMyTesla" versión **Pre-Alpha**: [FindMyTesla](https://github.com/E3-Semana-Tec/AppIoT/blob/master/AppIoT%20(2).aia)
 
-En la siguiente liga podra descargar el archivo .apk de "FindMyTesla" versión Pre-Alpha: [FindMyTesla](https://github.com/E3-Semana-Tec/AppIoT/blob/master/AppIoT.apk)
+En la siguiente liga podra descargar el archivo **.apk** de "FindMyTesla" versión **Pre-Alpha**: [FindMyTesla](https://github.com/E3-Semana-Tec/AppIoT/blob/master/AppIoT.apk)
 
 ## Referencias 
