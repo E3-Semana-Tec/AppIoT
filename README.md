@@ -39,3 +39,5 @@ En la siguiente liga podra descargar el archivo **.apk** de "FindMyTesla" versi�
 
 - Dudler, R. (2016). La guía sencilla. Retrieved September 18, 2020, from: [Link](https://rogerdudler.github.io/git-guide/index.es.html)
 
+- Arciniega, F. (2017, May 26). Normas y Estándares de calidad para el desarrollo de Software. Retrieved September 18, 2020, from: [Link](https://fernandoarciniega.com/normas-y-estandares-de-calidad-para-el-desarrollo-de-software/)
+
